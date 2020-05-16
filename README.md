@@ -19,3 +19,6 @@ Além disso, criem um menu de navegação e as páginas respectivas de:
 Não é preciso ter domínio próprio e recomendamos o Netlify para hospedagem.
 
 Bora lá? Então valendo! Esse desafio é individual, mas incentivamos que vocês troquem links entre si para feedbacks dos colegas <3
+
+O resultado encontra-se no [Netlify](https://covidnewsnow.netlify.app "Clique e acesse agora!")
+
